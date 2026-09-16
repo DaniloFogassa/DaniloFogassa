@@ -6,3 +6,4 @@ Meu nome é Danilo, sou programador, estou aprendendo atualmente a utilizar 💻
 
 
 [![Danilo stats](https://github-stats-extended.vercel.app/api?username=DaniloFogassa)](https://github.com/stats-organization/github-stats-extended)
+Espero melhorar com o tempo, me esforço cada dia para aprender mais
